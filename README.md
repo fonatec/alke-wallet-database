@@ -14,7 +14,7 @@ La solución contiene tres tablas relacionadas:
 - `usuario`: datos de cada usuario, su saldo y moneda asociada.
 - `transaccion`: transferencias realizadas entre usuarios.
 
-![Diagrama entidad-relación de Alke Wallet](assets/diagrama-er.png)
+![Diagrama entidad-relación de Alke Wallet](diagrama-er.png)
 
 ## Características implementadas
 
