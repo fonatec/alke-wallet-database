@@ -29,7 +29,7 @@ La solución contiene tres tablas relacionadas:
 ## Ejecución
 
 1. Abre MySQL Workbench y conéctate a una instancia de MySQL 8.
-2. Abre el archivo [`sql/AlkeWallet.sql`](AlkeWallet.sql).
+2. Abre el archivo [`AlkeWallet.sql`](AlkeWallet.sql).
 3. Ejecuta el script completo con el botón del rayo.
 4. Revisa los resultados de las consultas en el panel **Result Grid**.
 
